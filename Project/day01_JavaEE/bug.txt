@@ -1,0 +1,7 @@
+public void cn.itcast.annotation.demo.Calculator.add()方法出异常了
+异常名称：NullPointerException
+异常原因：null
+public void cn.itcast.annotation.demo.Calculator.div()方法出异常了
+异常名称：ArithmeticException
+异常原因：/ by zero
+总共出现了2次异常
